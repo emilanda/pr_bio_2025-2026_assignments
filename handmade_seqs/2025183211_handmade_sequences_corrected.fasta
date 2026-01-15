@@ -2,7 +2,6 @@
 >Original sequence identifier
 ATGRYSTANCGTARGYC
 
-
 >First corrected sequence indentifier
 ATGAGTTACCGTAGGCTACC
 
@@ -12,15 +11,11 @@ ATGAGCTATGGTAGGCTTGC
 >third corrected sequence indentifier
 ATGGCTTACCGAAGGCTCAGC
 
-
-
-
 >reverse first corrected sequence identifier
 CCATCGGATGCCATTGAGTA
 
 >complement first corrected sequence identifier
 TACTCAATGGCATCCGATGG
-
 
 >reverse complement first corrected sequence identifier
 GGATCCGATGCCATTGAGTA
@@ -29,4 +24,3 @@ GGATCCGATGCCATTGAGTA
 MSYRRL
 
 
-Emilanda_Lopes_dos_Santos 2025183211
